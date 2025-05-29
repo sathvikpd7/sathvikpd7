@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 Currently Learning
-Strengthening my skills in: `C`, `C++`, `HTML`, `CSS`, `JavaScript`, `Python`
+Strengthening my skills in: `C++`, `JavaScript`, `Python`
 
 ---
 
