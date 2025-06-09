@@ -7,9 +7,6 @@
 </p>
 
 
-## 🌓 GitHub Dark/Light Toggle  
-[![GitHub Dark Mode](https://img.shields.io/badge/Mode-Dark%20%2F%20Light-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/settings/appearance)
-
 ---
 
 ## 🌐 Connect with Me
