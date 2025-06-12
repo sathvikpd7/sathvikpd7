@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <strong>Currently Learning:</strong> <code>C++</code> | <code>JavaScript</code> | <code>Python</code> | <code>MySQL</code>
+  <strong>Currently Learning:</strong><code>JavaScript</code> | <code>MySQL</code>
 </p>
 
 ---
