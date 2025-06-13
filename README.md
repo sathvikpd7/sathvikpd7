@@ -16,8 +16,9 @@
   <a href="https://www.instagram.com/sath_vik_7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:sathvikpd2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.reddit.com/user/Warm-Pride-3694/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
-  <a title="Discord: sathvikpd_7"><img src="https://img.shields.io/badge/Discord-sathvikpd__7-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
+
+
 
 
 ---
