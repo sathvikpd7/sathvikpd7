@@ -2,10 +2,17 @@
 
 <p align="center">
 🎓 Undergraduate Data Science Student<br>
-💻 Web Development Enthusiast <br>
+💻 Web Development<br>
 📫 Reach me at: <a href="mailto:sathvikpd2005@gmail.com">sathvikpd2005@gmail.com</a>
 </p>
 
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 I'm a 2nd-year Data Science undergraduate
+- 🌱 Currently learning JavaScript and MySQL
+- 🚀 Passionate about Web Development
 
 ---
 
@@ -18,17 +25,13 @@
   <a href="https://www.reddit.com/user/Warm-Pride-3694/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 </p>
 
-
-
-
 ---
 
-💻 Tech Stack & 🚀 Currently Learning
+## 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
@@ -37,25 +40,20 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-
-<p align="center">
-  <strong>Currently Learning:</strong><code>JavaScript</code> | <code>MySQL</code>
-</p>
-
 ---
 
-## 🏅 Certifications
+## 🚀 Currently Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/Git%20&%20GitHub-Proficient-orange?style=for-the-badge&logo=git&logoColor=white" />
+  <code>JavaScript</code> | <code>MySQL</code> 
 </p>
+
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sathvikpd7&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <br />
-  <br />
+  <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathvikpd7&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
 
