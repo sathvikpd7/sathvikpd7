@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <b>Full Stack Web Developer • Problem Solver • Building Scalable Systems</b>
+  <b>Full Stack Web Developer • Problem Solver</b>
 </div>
 
 <br/>
@@ -38,13 +38,12 @@
   "name": "Sathvik P D",
   "location": "Bengaluru, India",
   "role": "Full-Stack Web Developer",
-  "education": "Engineering Student @ MVJCE",
+  "education": "Engineering Student",
   "mission": "Building scalable, maintainable, and clean software systems.",
   "tech_focus": [
     "MERN Stack",
     "Backend System Design",
-    "RESTful APIs",
-    "Database Optimization"
+    "RESTful APIs"
   ],
   "current_status": "Building. Learning. Improving."
 }
