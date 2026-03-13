@@ -24,7 +24,6 @@
   <a href="https://instagram.com/_sath_vik_7">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sathvikpd7&label=Views&color=38BDF8&style=for-the-badge"/>
 </div>
 
 <p align="center">
@@ -71,7 +70,7 @@
 
 ### 🛠️ Core Languages & Tools
 <br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=cpp,python,git,vscode,postman,figma" />
 
 </div>
 
