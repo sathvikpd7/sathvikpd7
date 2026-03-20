@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <b>Full Stack Web Developer • Problem Solver</b>
+  <b>Full Stack Web Developer (MERN)• Problem Solver</b>
 </div>
 
 <br/>
