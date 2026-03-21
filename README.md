@@ -41,7 +41,6 @@
   "mission": "Building scalable, maintainable, and clean software systems.",
   "tech_focus": [
     "MERN Stack",
-    "Backend System Design",
     "RESTful APIs"
   ],
   "current_status": "Building. Learning. Improving."
@@ -52,7 +51,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800"/>
 </p>
 
-## 🚀 Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
 
